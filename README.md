@@ -21,7 +21,8 @@ Code:
   - first-plot.ipynb
   
 Result:
-  - Four htmls (2008.html, 2011.html, 2014.html, 2017.html) are saved in the folder result
+  - 4 htmls (2008.html, 2011.html, 2014.html, 2017.html) are saved in the folder result
+  - In order to see in github, you can see result/\*.pdf
   - For better view, see result/4of1.png
 
 ### Second Plot:
