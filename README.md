@@ -33,4 +33,4 @@ Code:
   - second-plot.ipynb
   
 Result:
-  - result/usa.html
+  - result/usa.html (To see the webpage, click [here](https://plot.ly/~yonghuili/0.embed))
