@@ -22,7 +22,7 @@ Code:
   
 Result:
   - 4 htmls (2008.html, 2011.html, 2014.html, 2017.html) are saved in the folder result
-  - In order to see in github, you can see result/\*.pdf
+  - (In order to see them in github, you can see the correpsond pdf files in result)
   - For better view, see result/4of1.png
 
 ### Second Plot:
